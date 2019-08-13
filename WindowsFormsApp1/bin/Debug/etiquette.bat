@@ -1,0 +1,1 @@
+copy etiquette.txt \\localhost\Godex
